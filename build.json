@@ -1,0 +1,12 @@
+{
+  "css/smartbest_theme.bundle.css": [
+    "public/scss/variables.scss",
+    "public/scss/base.scss",
+    "public/scss/desk.scss",
+    "public/scss/website.scss",
+    "public/scss/login.scss"
+  ],
+  "js/smartbest_theme.bundle.js": [
+    "public/js/desk.js"
+  ]
+}
