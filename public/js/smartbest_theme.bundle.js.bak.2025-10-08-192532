@@ -1,1 +1,0 @@
-frappe.ready(()=>{ try{ document.querySelectorAll(".frappe-list .list-row").forEach(el=>{el.style.paddingTop="6px";el.style.paddingBottom="6px"}) }catch(e){}});

@@ -1,5 +1,19 @@
+# Compiled assets (DO NOT COMMIT)
+smartbest_theme/public/css/*.bundle.css
+smartbest_theme/public/css/*.bundle.css.*
+smartbest_theme/public/js/*.bundle.js
+smartbest_theme/public/js/*.bundle.js.*
+
+# Node / build
+node_modules/
+dist/
+build/
+*.map
+
+# Python
 __pycache__/
 *.pyc
-.env
-*.log
-node_modules/
+
+# OS
+.DS_Store
+
